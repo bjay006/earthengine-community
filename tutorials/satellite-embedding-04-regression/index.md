@@ -37,10 +37,10 @@ Let’s start by defining a region of interest. For this tutorial, we will pick 
 
 ```js
 var geometry = ee.Geometry.Polygon([[
-  [74.322, 14.981],
-  [74.322, 14.765],
-  [74.648, 14.765],
-  [74.648, 14.980]
+  [72.33692169189453, 22.607841635058808],
+  [72.33692169189453, 22.392158364941192],
+  [72.66307830810547, 22.392158364941192],
+  [72.66307830810547, 22.607841635058808]
 ]]);
 
 // Use the satellite basemap
